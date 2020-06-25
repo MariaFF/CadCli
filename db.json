@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "PULA",
+      "cpf": "fdsfsdf",
+      "email": "fsdfdsfs@teste.com",
+      "cep": "12312312",
+      "logradouro": "wefwer",
+      "numero": "sdsd",
+      "bairro": "cvcv",
+      "localidade": "cvcx",
+      "id": 1
+    },
+    {
+      "name": "FOGUEIRA",
+      "cpf": "fdsfsdf",
+      "email": "fsdfdsfs@teste.com",
+      "cep": "12312312",
+      "logradouro": "wefwer",
+      "numero": "sdsd",
+      "bairro": "cvcv",
+      "localidade": "cvcx",
+      "id": 2
+    },
+    {
+      "name": "PULA FOGUEIRA",
+      "cpf": "fdsfsdf",
+      "email": "fsdfdsfs@teste.com",
+      "cep": "12312312",
+      "logradouro": "wefwer",
+      "numero": "sdsd",
+      "bairro": "cvcv",
+      "localidade": "cvcx",
+      "id": 3
+    },
+    {
+      "name": "fsdfsdfsd",
+      "cpf": "123213123",
+      "email": "fdf@dfdfds.com",
+      "cep": "3434324",
+      "logradouro": "sdfsd",
+      "numero": "34",
+      "bairro": "dfsdfdsf",
+      "localidade": "sdfsdfsd",
+      "id": 4
+    }
+  ]
+}
