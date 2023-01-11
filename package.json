@@ -16,7 +16,7 @@
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "json-server": "^0.16.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "polished": "^3.6.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
